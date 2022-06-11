@@ -1,16 +1,18 @@
-### Hi there 👋
+# 김준우
 
-<!--
-**AsickAsack/AsickAsack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Unity-#FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+유니티 클라이언트 개발자를 목표로 열심히 공부하고 있습니다!
+
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
+
+## HomePage
+
+- https://dev-junwoo.tistory.com/
+
+## E-Mail
+
+- junwoo314@gmail.com
