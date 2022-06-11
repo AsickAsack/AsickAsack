@@ -1,7 +1,7 @@
 # 김준우
 
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
 
 유니티 클라이언트 개발자를 목표로 열심히 공부하고 있습니다!
 
