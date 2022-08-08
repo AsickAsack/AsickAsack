@@ -14,6 +14,6 @@
 
 - junwoo314@gmail.com
 
-## 개인 포트폴리오 주소
+## 개인 포트폴리오 깃허브 주소
 
 - https://github.com/AsickAsack/KJW_RPG_PortFolio
